@@ -7,7 +7,7 @@
 		"accept_license_agreement": true, 
 		"jce_enabled": true, 
 		"oracle": {
-			"accept_oracle_download_terme":true
+			"accept_oracle_download_terms":true
 			}
 		}	
 	}
